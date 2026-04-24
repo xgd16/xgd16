@@ -3,7 +3,7 @@
 
 
 My blog: [To dream](https://todream.net)
-
+My site: [Link Word](https://www.linkwordx.site)
 
 
 [![xgd16](https://github-readme-stats.vercel.app/api?username=xgd16&card_width=1000)](https://github.com/xgd16)
