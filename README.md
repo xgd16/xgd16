@@ -18,7 +18,7 @@ Backend engineer focused on **developer tools, AI infrastructure, and self-hoste
 
 - 🔭 Currently building **[XTokenHub](https://github.com/xgd16/XTokenHub)** — a self-hosted LLM API gateway with unified provider keys, real-time usage tracking, and OpenAI ⇄ Anthropic protocol conversion.
 - 🌏 Maintaining **[UniTranslate](https://github.com/xgd16/UniTranslate)** — an open-source translation aggregation platform with **96+ stars**.
-- 🤖 Exploring **MCP servers, LLM routing, and agent tooling** — see **[ai-mcp](https://github.com/xgd16/ai-mcp)**.
+- 🎮 Building **Flutter desktop experiences** — see **[XGameDesktop](https://github.com/xgd16/XGameDesktop)**.
 - 🦀 Writing **Rust** for hardware and systems work — see **[hwprobe](https://github.com/xgd16/hwprobe)**.
 - 💬 Ask me about **Go, GoFrame, React, API design, or self-hosting**.
 
@@ -34,9 +34,8 @@ Backend engineer focused on **developer tools, AI infrastructure, and self-hoste
 | :--- | :--- | :--- |
 | **[UniTranslate](https://github.com/xgd16/UniTranslate)** | Unified translation API that aggregates Baidu, Youdao, Google, DeepL and LLM providers, with channel weights, batch translation and a web console. | `Go` `Vue` |
 | **[XTokenHub](https://github.com/xgd16/XTokenHub)** | Self-hosted LLM API gateway and token hub — unify provider keys, group models, track usage in real time and convert between OpenAI and Anthropic protocols. Single Go binary + React. | `Go` `React` |
-| **[ai-mcp](https://github.com/xgd16/ai-mcp)** | Go-based MCP server with SSE, controlled command execution, SQL/query tools and GoFrame/MySQL integration — ready for IDEs and AI agents. | `Go` `MCP` |
+| **[XGameDesktop](https://github.com/xgd16/XGameDesktop)** | Controller-first Windows desktop gaming front end — app launcher, real-time hardware telemetry and system-level dynamic wallpapers. | `Flutter` `Dart` |
 | **[x-admin](https://github.com/xgd16/x-admin)** | RBAC admin platform with a Go backend and a React frontend, featuring a Workbench Liquid Glass UI. | `Go` `React` |
-| **[x-rss](https://github.com/xgd16/x-rss)** | Cross-platform RSS reader built with Flutter for iOS, Android, web and desktop. | `Flutter` `Dart` |
 | **[hwprobe](https://github.com/xgd16/hwprobe)** | HWiNFO-like hardware and sensor library — a C ABI dynamic library covering CPU, memory, GPU, disks, NICs, battery, motherboard, monitor and IMU. | `Rust` `C ABI` `Windows` |
 
 > 🧩 I also maintain a set of **GoFrame extensions**: [gf-x-mqtt](https://github.com/xgd16/gf-x-mqtt) · [gf-x-rabbitMQ](https://github.com/xgd16/gf-x-rabbitMQ) · [gf-x-elasticSearch](https://github.com/xgd16/gf-x-elasticSearch) · [gf-x-tool](https://github.com/xgd16/gf-x-tool)
